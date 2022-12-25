@@ -8,5 +8,7 @@ http://www.songho.ca/opengl/gl_projectionmatrix.html полезная ссылк
 https://learnopengl.com/Getting-started/Transformations полезная ссылка про основы устройства OpenGL
 
 
+https://habr.com/ru/users/UberSchlag/posts/ полезная ссылка про освещение и шейдеры
+
 
 Очень важно (иначе тупёж на неделю обеспечен)!!! Матрицы в библиотеке glm очень криво перемножаются. A*B для умножения в glm - это B*A в математическом понятии умножения матриц.
