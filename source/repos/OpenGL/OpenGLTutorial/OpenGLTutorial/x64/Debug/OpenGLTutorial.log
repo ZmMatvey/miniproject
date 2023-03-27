@@ -1,0 +1,202 @@
+﻿  C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\
+  avl.cpp
+  stb.cpp
+  bounds.cpp
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\vertexmemory.hpp(107,1): warning C4312: приведение типов: преобразование из "GLint" в "void *" большего размера
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(62,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(68,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(109,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+  octree.cpp
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\vertexmemory.hpp(107,1): warning C4312: приведение типов: преобразование из "GLint" в "void *" большего размера
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(62,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(68,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(109,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\octree.cpp(102,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\octree.cpp(171,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\octree.cpp(183,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\octree.cpp(294,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\octree.cpp(351,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\octree.cpp(400,91): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\octree.cpp(401,94): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\octree.cpp(406,72): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\octree.cpp(410,78): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\octree.cpp(456,78): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\octree.cpp(458,39): warning C4018: <: несоответствие типов со знаком и без знака
+  mesh.cpp
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\vertexmemory.hpp(107,1): warning C4312: приведение типов: преобразование из "GLint" в "void *" большего размера
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(62,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(68,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(109,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\objects\mesh.cpp(49,5): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\objects\mesh.cpp(54,5): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\objects\mesh.cpp(127,87): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\objects\mesh.cpp(134,46): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\objects\mesh.cpp(231,75): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\objects\mesh.cpp(258,75): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\objects\mesh.cpp(264,77): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+  model.cpp
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\vertexmemory.hpp(107,1): warning C4312: приведение типов: преобразование из "GLint" в "void *" большего размера
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(62,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(68,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(109,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(68,49): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(91,76): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(196,33): warning C4244: +=: преобразование "const float" в "int", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(241,1): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(242,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(259,1): warning C4267: return: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(300,25): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\framememory.hpp(126,1): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\uniformmemory.hpp(170,37): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\uniformmemory.hpp(291,33): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\uniformmemory.hpp(340,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\objects\model.cpp(74,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\objects\model.cpp(104,5): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\objects\model.cpp(112,5): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\objects\model.cpp(120,5): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\objects\model.cpp(183,5): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\objects\model.cpp(224,23): warning C4018: <: несоответствие типов со знаком и без знака
+  cubemap.cpp
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\vertexmemory.hpp(107,1): warning C4312: приведение типов: преобразование из "GLint" в "void *" большего размера
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(68,49): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(91,76): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(196,33): warning C4244: +=: преобразование "const float" в "int", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(241,1): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(242,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(259,1): warning C4267: return: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(300,25): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\framememory.hpp(126,1): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\uniformmemory.hpp(170,37): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\uniformmemory.hpp(291,33): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\uniformmemory.hpp(340,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(62,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(68,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(109,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+  light.cpp
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\vertexmemory.hpp(107,1): warning C4312: приведение типов: преобразование из "GLint" в "void *" большего размера
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\framememory.hpp(126,1): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+  material.cpp
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\rendering\material.cpp(9,144): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\rendering\material.cpp(10,137): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\rendering\material.cpp(11,148): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\rendering\material.cpp(12,140): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\rendering\material.cpp(13,149): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\rendering\material.cpp(14,147): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\rendering\material.cpp(15,164): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\rendering\material.cpp(16,145): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\rendering\material.cpp(17,131): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\rendering\material.cpp(18,148): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\rendering\material.cpp(19,148): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\rendering\material.cpp(20,152): warning C4305: инициализация: усечение из "double" в "float"
+  shader.cpp
+  text.cpp
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\vertexmemory.hpp(107,1): warning C4312: приведение типов: преобразование из "GLint" в "void *" большего размера
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\rendering\text.cpp(89,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  texture.cpp
+  camera.cpp
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\io\camera.cpp(27,12): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\io\camera.cpp(28,14): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\io\camera.cpp(69,17): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+  joystick.cpp
+  keyboard.cpp
+  mouse.cpp
+  linalg.cpp
+  main.cpp
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\vertexmemory.hpp(107,1): warning C4312: приведение типов: преобразование из "GLint" в "void *" большего размера
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\framememory.hpp(126,1): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\uniformmemory.hpp(170,37): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\uniformmemory.hpp(291,33): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\uniformmemory.hpp(340,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(62,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(68,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(109,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(68,49): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(91,76): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(196,33): warning C4244: +=: преобразование "const float" в "int", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(241,1): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(242,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(259,1): warning C4267: return: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(300,25): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\main.cpp(230,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\main.cpp(282,50): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\main.cpp(287,44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\main.cpp(289,44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\main.cpp(303,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\main.cpp(324,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  collisionmesh.cpp
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\physics\collisionmesh.cpp(30,16): warning C4101: c3: неиспользованная локальная переменная
+  collisionmodel.cpp
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\vertexmemory.hpp(107,1): warning C4312: приведение типов: преобразование из "GLint" в "void *" большего размера
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(62,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(68,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(109,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+  Создание кода...
+  Компиляция...
+  environment.cpp
+  rigidbody.cpp
+  scene.cpp
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(68,49): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(91,76): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(196,33): warning C4244: +=: преобразование "const float" в "int", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(241,1): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(242,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(259,1): warning C4267: return: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\Linking\include\jsoncpp\json.hpp(300,25): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\vertexmemory.hpp(107,1): warning C4312: приведение типов: преобразование из "GLint" в "void *" большего размера
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\framememory.hpp(126,1): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\uniformmemory.hpp(170,37): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\uniformmemory.hpp(291,33): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\uniformmemory.hpp(340,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(62,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(68,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\models\box.hpp(109,1): warning C4267: аргумент: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\scene.cpp(231,80): warning C4267: аргумент: преобразование из "size_t" в "const _Ty"; возможна потеря данных
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\scene.cpp(247,77): warning C4267: аргумент: преобразование из "size_t" в "const _Ty"; возможна потеря данных
+          with
+          [
+              _Ty=unsigned int
+          ]
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\scene.cpp(363,51): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\scene.cpp(375,37): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\scene.cpp(587,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\trie.hpp(129,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\trie.hpp(111,1): message : во время компиляции функции-члена класс шаблон "bool trie::Trie<RigidBody *>::insert(std::string,T)"
+          with
+          [
+              T=RigidBody *
+          ]
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\scene.cpp(526,29): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool trie::Trie<RigidBody *>::insert(std::string,T)"
+          with
+          [
+              T=RigidBody *
+          ]
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\scene.h(53,28): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "trie::Trie<RigidBody *>"
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\trie.hpp(101,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\trie.hpp(90,1): message : во время компиляции функции-члена класс шаблон "trie::Trie<RigidBody *>::Trie(trie::charset)"
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\scene.cpp(27,42): message : выполняется компиляция ссылки на экземпляр шаблон функции "trie::Trie<RigidBody *>::Trie(trie::charset)"
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\trie.hpp(266,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\trie.hpp(261,1): message : во время компиляции функции-члена класс шаблон "void trie::Trie<RigidBody *>::unloadNode(trie::node<T> *)"
+          with
+          [
+              T=RigidBody *
+          ]
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\algorithms\trie.hpp(167,23): message : выполняется компиляция ссылки на экземпляр шаблон функции "void trie::Trie<RigidBody *>::unloadNode(trie::node<T> *)"
+          with
+          [
+              T=RigidBody *
+          ]
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\graphics\memory\uniformmemory.hpp(333,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\OpenGLTutorial\src\scene.cpp(228,86): message : выполняется компиляция ссылки на экземпляр шаблон функции "void UBO::UBO::writeArrayContainer<glm::mat4,glm::vec4>(T *,unsigned int)"
+          with
+          [
+              T=glm::mat4
+          ]
+  Создание кода...
+  glad.c
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  OpenGLTutorial.vcxproj -> C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\x64\Debug\OpenGLTutorial.exe
+  C:\Users\Матвей\source\repos\miniproject\OpenGL\OpenGLTutorial\
